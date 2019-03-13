@@ -1,3 +1,3 @@
 git add .
-git commit -m "Updates in the code"
+git commit -m "Final before the ReadMe"
 git push
