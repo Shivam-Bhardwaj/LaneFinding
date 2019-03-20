@@ -41,3 +41,8 @@ The following pipeline was used to obtain a satisfactory and annotated video of 
 3. [Creating mask on region of interest](https://stackoverflow.com/questions/25074488/how-to-mask-an-image-using-numpy-opencv)
 4. [Hough Transform](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html)
 
+## Notes on the project
+
+The project has the following scopes of improvements.
+1. The detected lanes can be smoother
+2. Instead of using filters on RGB color space, we can go for HLS or other colorspace for better performance.
