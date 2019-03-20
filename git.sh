@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # This script is for an easy git update
 
 git add .
